@@ -29,6 +29,7 @@
     <Button
         android:id="@+id/mSendButton"
         android:layout_width="100dp"
+        android:onClick="mSendEmail"
         android:layout_height="wrap_content"
         android:layout_gravity="right"
         android:text="@string/send" />
