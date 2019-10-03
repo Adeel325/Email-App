@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabTestApp2</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message"></string>
+    <string name="send">Send</string>
+</resources>
